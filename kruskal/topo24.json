@@ -1,0 +1,273 @@
+{
+    "host_no": 24,
+    "switch_no": 24,
+    "links": [{
+        "vertexs": ["h1", "s1"],
+        "delay": 1,
+        "bw": 100
+    }, {
+        "vertexs": ["h2", "s2"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h3", "s3"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h4", "s4"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h5", "s5"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h6", "s6"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h7", "s7"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h8", "s8"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h9", "s9"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h10", "s10"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h11", "s11"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h12", "s12"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h13", "s13"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h14", "s14"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h15", "s15"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h16", "s16"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h17", "s17"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h18", "s18"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h19", "s19"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h20", "s20"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h21", "s21"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h22", "s22"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h23", "s23"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["h24", "s24"],
+        "delay": 1,
+        "bw": 100
+    },{
+        "vertexs": ["s1", "s2"],
+        "delay": 2,
+        "bw": 19
+    }, {
+        "vertexs": ["s1", "s7"],
+        "delay": 7,
+        "bw": 21
+    },{
+        "vertexs": ["s2", "s3"],
+        "delay": 10,
+        "bw": 13
+    },{
+        "vertexs": ["s2", "s7"],
+        "delay": 4,
+        "bw": 9
+    },{
+        "vertexs": ["s3", "s4"],
+        "delay": 16,
+        "bw": 6
+    },{
+        "vertexs": ["s3", "s5"],
+        "delay": 24,
+        "bw": 30
+    },{
+        "vertexs": ["s3", "s6"],
+        "delay": 18,
+        "bw": 7
+    },{
+        "vertexs": ["s4", "s5"],
+        "delay": 12,
+        "bw": 11
+    },{
+        "vertexs": ["s4", "s8"],
+        "delay": 3,
+        "bw": 15
+    },{
+        "vertexs": ["s5", "s6"],
+        "delay": 8,
+        "bw": 16
+    },{
+        "vertexs": ["s6", "s7"],
+        "delay": 5,
+        "bw": 9
+    },{
+        "vertexs": ["s6", "s8"],
+        "delay": 29,
+        "bw": 18
+    },{
+        "vertexs": ["s6", "s9"],
+        "delay": 6,
+        "bw": 25
+    },{
+        "vertexs": ["s7", "s9"],
+        "delay": 5,
+        "bw": 5
+    },{
+        "vertexs": ["s7", "s10"],
+        "delay": 15,
+        "bw": 27
+    },{
+        "vertexs": ["s8", "s14"],
+        "delay": 14,
+        "bw": 6
+    },{
+        "vertexs": ["s9", "s10"],
+        "delay": 26,
+        "bw": 17
+    },{
+        "vertexs": ["s9", "s12"],
+        "delay": 8,
+        "bw": 15
+    },{
+        "vertexs": ["s9", "s14"],
+        "delay": 19,
+        "bw": 14
+    },{
+        "vertexs": ["s10", "s11"],
+        "delay": 11,
+        "bw": 10
+    },{
+        "vertexs": ["s10", "s12"],
+        "delay": 6,
+        "bw": 7
+    },{
+        "vertexs": ["s10", "s18"],
+        "delay": 25,
+        "bw": 18
+    },{
+        "vertexs": ["s11", "s17"],
+        "delay": 7,
+        "bw": 18
+    },{
+        "vertexs": ["s11", "s19"],
+        "delay": 20,
+        "bw": 13
+    },{
+        "vertexs": ["s12", "s13"],
+        "delay": 5,
+        "bw": 13
+    },{
+        "vertexs": ["s12", "s17"],
+        "delay": 13,
+        "bw": 22
+    },{
+        "vertexs": ["s13", "s14"],
+        "delay": 14,
+        "bw": 19
+    },{
+        "vertexs": ["s13", "s15"],
+        "delay": 4,
+        "bw": 11
+    },{
+        "vertexs": ["s13", "s16"],
+        "delay": 14,
+        "bw": 2
+    },{
+        "vertexs": ["s14", "s15"],
+        "delay": 18,
+        "bw": 7
+    },{
+        "vertexs": ["s15", "s24"],
+        "delay": 25,
+        "bw": 16
+    },{
+        "vertexs": ["s16", "s17"],
+        "delay": 17,
+        "bw": 6
+    },{
+        "vertexs": ["s16", "s21"],
+        "delay": 11,
+        "bw": 9
+    },{
+        "vertexs": ["s16", "s22"],
+        "delay": 6,
+        "bw": 12
+    },{
+        "vertexs": ["s16", "s24"],
+        "delay": 14,
+        "bw": 6
+    },{
+        "vertexs": ["s17", "s20"],
+        "delay": 21,
+        "bw": 8
+    },{
+        "vertexs": ["s17", "s21"],
+        "delay": 7,
+        "bw": 10
+    },{
+        "vertexs": ["s18", "s19"],
+        "delay": 5,
+        "bw": 15
+    },{
+        "vertexs": ["s19", "s20"],
+        "delay": 15,
+        "bw": 7
+    },{
+        "vertexs": ["s20", "s21"],
+        "delay": 6,
+        "bw": 9
+    },{
+        "vertexs": ["s21", "s22"],
+        "delay": 13,
+        "bw": 14
+    },{
+        "vertexs": ["s22", "s23"],
+        "delay": 6,
+        "bw": 4
+    },{
+        "vertexs": ["s23", "s24"],
+        "delay": 17,
+        "bw": 23
+    }]
+}

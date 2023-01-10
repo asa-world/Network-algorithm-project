@@ -1,1 +1,11 @@
-# Network-algorithm-project
+# 网络算法实践项目
+
+## 实验环境
+
+Ubnutu 18 + RYU + Mininet
+
+
+
+## 算法
+
+算法包括了最小生成树、DFS和最短路算法，其中最小生成树为基础
